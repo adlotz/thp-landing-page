@@ -1,10 +1,10 @@
-# Notre Readme 
+# Notre Readme :purple_heart:
 ## Le site:
 1. Design yeah
 
-1.1 Page principale 
+1.1 Page principale :fire: 
 
-* On a voulu faire quelque chose d'authentique, nous avons donc pris Adrien comme modèle! Le codeur à capuche, emblème parfait pour représenter THP. 
+* On a voulu faire quelque chose d'authentique, nous avons donc pris Adrien comme modèle! Le codeur à capuche, emblème parfait pour représenter THP. :wink:
 * Une police un peu futuriste
 * Du jaune pour contraster avec l'image foncée mais pas trop non plus pour éviter l'effet moutarde
 * Un logo pour une identité forte
@@ -22,11 +22,11 @@
 * Un fond sobre et moderne, épuré qui met en valeur le texte
 * Des titres en jaune pour le rappel
 
-1.3 Page dédiée au code 
+1.3 Page dédiée au code :computer:
 
 * Même modèle, deux paragraphes : un expliquant l'intérêt d'apprendre à coder et de le généraliser , le deuxième présentant la méthode d'apprentissage
 
-1.4. Page abordant le programme 
+1.4. Page abordant le programme :fireworks:
 
 * Un astucieux formulaire où l'on rentre le nom et l'adresse email, qui inscrit directement à la newsletter ( MailChimp)
 * Dans cet email, présentation de THP et un lien pour être redirigé vers le vrai site
@@ -45,7 +45,7 @@
 * Créer le formulaire d'inscription automatique à la newsletter grâce à l'API MailChimp ( après obtention des données nom  et  email)
 * Répartition des tâches : un qui fait le call to action l'autre l'acquisition
 
-3. Stratégies d'acquisition 
+3. Stratégies d'acquisition :muscle:
 
 * Cible : étudiant ou actif/diplômé en reconversion
 * Un canal d'acquisition : les réseaux sociaux
@@ -58,16 +58,16 @@ Scrapping des mairies du haut-rhin et bas-rhin plus envoi des emails
 
 4. Metrics :histogramme:
 
-On a pas encore de visites
+On a pas encore de visites :worried:
 
-5. Technique agile 
+5. Technique agile :thumbsup:
 
 * Gestion des équipes et tâches : deux duos
 Bonne répartition des tâches, on a pu s'entraider, toucher à tout et se décharger d'une tâche en cas de besoin
 * Mauvaise gestion du temps ou manque d'efficacité, surtout sur la partie acquisition
 * Manque de connaissances/outils pour trouver une stratégie d'acquisition autre que via les réseaux sociaux
 Impossible de récupérer les id !!! Facebook a tout bloqué et avec grouply on n'obtenait pas d'email ou d'informations utiles
-* Du coup : pas d'enseignements des résultats des metrics :chat_qui_pleure:
+* Du coup : pas d'enseignements des résultats des metrics :crying_cat_face:
 * Ce qui a marché : de l'entraîde , de la motivation, du travail à gogo, de la recherche de ressources et surtout du LOVE !!!
 Voici le lien [heroku](https://landingpageforthp.herokuapp.com/)
 ENJOY !
